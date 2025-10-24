@@ -101,7 +101,8 @@ GTA-VI/
 ---
 
 ## 🖼️ Screenshots  
-🚧 *Coming soon — snapshots of gameplay, UI components, and the open-world map.*
+![GTA VI Screenshot](https://github.com/user-attachments/assets/42552d51-6d2d-4b92-a0b5-3255bb3a6fc7)
+
 
 ---
 
